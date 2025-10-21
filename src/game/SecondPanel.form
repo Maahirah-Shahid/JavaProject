@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="game.SecondPanel">
+  <grid id="27dc6" binding="mainPanel" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+    <constraints>
+      <xy x="243" y="244" width="500" height="78"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="8370" class="javax.swing.JButton" binding="Save">
+        <constraints/>
+        <properties>
+          <text value="Save"/>
+        </properties>
+      </component>
+      <component id="ad5f8" class="javax.swing.JButton" binding="NextLevel">
+        <constraints/>
+        <properties>
+          <text value="Next Level"/>
+        </properties>
+      </component>
+      <component id="7654a" class="javax.swing.JButton" binding="highScoresButton" default-binding="true">
+        <constraints/>
+        <properties>
+          <text value="High Scores"/>
+        </properties>
+      </component>
+      <component id="c4ba" class="javax.swing.JButton" binding="Quit">
+        <constraints/>
+        <properties>
+          <text value="Exit"/>
+        </properties>
+      </component>
+      <component id="de49b" class="javax.swing.JButton" binding="Load">
+        <constraints/>
+        <properties>
+          <text value="Load"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

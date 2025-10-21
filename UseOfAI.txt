@@ -1,0 +1,16 @@
+I used AI in the ‘Spritesheet’ class of my code and the animation.
+The 'Spritesheet' class was made in order to aid me in
+the cutting of the spritesheets I would use in my game into individual
+sprites. It is a class similar to the ‘PolygonEditor’ class in that it
+will help make it easier for me to manage making the game. All it does
+is cut a box out of whatever spritesheet I provide, and then creates a new
+file on my laptop for it. At first, I asked the AI to add them to an array,
+but when the code got a little too complicated for me to wrap my head around,
+I changed the prompt to ask for if the AI could, instead, create a new file
+on my laptop for the sprites I would cut up. After having figured that out,
+I used it to cut the individual frames, which I then went on to also
+ask ai for help with animating. The AI helped me understand how to write an
+image file onto my laptop, based on another image uploaded into my code and
+then helped me with understanding how to then animate images, which also led
+to me figuring out how to animate images so that the animation only loops
+through once.
